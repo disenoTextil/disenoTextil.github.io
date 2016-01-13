@@ -1,0 +1,274 @@
+body {
+	background-color: #3F3D3D;
+}
+
+.header{
+	background: #fff;
+	max-height: 80px;
+}
+
+
+.header{
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.head{
+	padding-top: 1%;
+}
+
+
+.one{
+	background-color: #FFF;
+}
+
+.two {
+	position: relative;
+	bottom: 400px;
+	left: 482px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.three{
+	position: relative;
+}
+
+.three-one {
+	border-color: white;
+	border-style: solid;
+	vertical-align: center;
+	bottom: 370px;
+}
+
+.three-one h2{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	text-align: center;
+	color: white;
+}
+
+.four {
+	position: relative;
+	bottom: 350px;
+}
+
+
+.four-two img{
+	float: left;
+	vertical-align: middle;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.four-two h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: white;
+	font-size: 15px;
+	line-height: 8px;
+	vertical-align: middle;
+}
+
+.four-three{
+	left: 10px;
+}
+
+.four-three img{
+	float: left;
+	vertical-align: middle;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.four-three h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: white;
+	font-size: 15px;
+	line-height: 8px;
+	vertical-align: middle;
+}
+
+.four-four{
+	left: -20px;
+}
+
+.four-four img{
+	float: left;
+	vertical-align: middle;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.four-four h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: white;
+	font-size: 15px;
+	line-height: 8px;
+	vertical-align: middle;
+}
+
+.five-one{
+	font-size: 1.1em;
+}
+
+.five {
+	background-color: #ffffff;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+
+
+.six {
+	background-color: #f3ad72;
+	height: 120px;
+	padding-top: 15px;
+}
+
+.six h4{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	color: #AA4F43;
+	font-size: 30px;
+	text-align: center;
+	line-height: 37px;
+}
+
+.seven {
+	background-color: #f2f2f2;
+}
+
+.seven-two {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+}
+
+.seven-two h4{
+	padding-top: 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: #CD4F27;
+	font-size: 22px;
+	line-height: 50px;
+}
+
+.seven-two h5{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #515254;
+	font-size: 18px;
+	text-indent: -13px;
+	line-height: 22px;
+}
+
+
+.Bkg_1 {
+	background: #E6E6E6;
+}
+
+.Bkg_2 {
+	background: #F2F2F2;
+	height: auto;
+
+}
+
+.Bkg_3 {
+	background: #F3AC71;
+}
+
+.Bkg_4 {
+	background: #fff;
+}
+
+.PicUno {
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+
+.TextUno {
+	padding: 70px 40px 30px 50px;
+}
+
+.TextDos {
+    padding: 100px 30px 30px 50px;
+}
+
+.Color{
+	color: #CD4F27;
+	font-size: 1.5em;
+}
+
+.PicTres {
+    background-image: url("../img/Bkg_PicTres.png");
+}
+
+.Teach{
+	padding-top: 4%;
+	padding-bottom: 2%;
+	padding-left: 5%;
+	padding-right: 5%;
+	color: #fff;
+	text-align: center;
+}
+
+.Teach h2{
+	text-align: center;
+	color: #fff;
+	font-size: 2.5em;
+}
+
+.Teach h3, .designation, label{
+	color: #fff;
+}
+
+.VideoTest {
+    margin-bottom: 1%;
+    padding-bottom: 3%;
+}   
+
+.Test{
+	padding-top: 4%;
+	padding-bottom: 1%;
+	border-bottom: 1px solid #515254;
+}
+
+.Call{
+	padding-top: 3%;
+	padding-left: 20%;
+	padding-right: 20%;
+	color: #fff;
+	text-align: center;
+}
+
+.Call h2{
+	text-align: center;
+	color: #fff;
+	font-size: 2.5em;
+}
+
+.CallBtn{
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+.pad{
+	margin-bottom: 3%;
+}
+
+.Foot{
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.TxtFoot{
+	padding-left: 25%;
+	padding-right: 25%;
+}

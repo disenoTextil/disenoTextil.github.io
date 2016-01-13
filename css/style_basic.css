@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,600);
+
+body {
+	background: #02c4ff;
+}
+
+.back-image {
+	background-image: url("../img/back-home.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+	height: 400px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.vertical-align {
+	position: relative;
+	text-align: center;
+	top: 50%;
+	transform: translateY(-50px);
+}
+
+#titulo {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+.color-container {
+	background: #333333;
+	color: white;
+}
+
+@media () {
+	
+}
